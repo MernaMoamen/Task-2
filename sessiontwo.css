@@ -1,0 +1,36 @@
+h1
+{
+    color: red;
+    letter-spacing: 20px;
+    line-height: 10 px;
+    direction: rtl;
+    text-align: center;
+    text-decoration:underline;
+
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+    font-weight: 100;
+    font-size: 50px;
+    background-color: springgreen;
+}
+body
+{
+    background-color: #eb7979;
+    
+}
+
+div
+{
+    border-left:1px solid pink;
+    border-right: 1px dotted purple;
+    border-width: 4px;
+    border-radius: 20px;
+    width: 400px;
+    float: left;
+    height: auto;
+    background-color: rgb(147, 194, 201);
+
+    margin-top: 100px;
+    padding: 20px;
+
+}
